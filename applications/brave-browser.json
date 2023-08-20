@@ -1,7 +1,8 @@
 {
   "name": "Brave Browser",
   "executables": [
-    "brave-browser"
+    "brave-browser",
+    "brave"
   ],
   "locations": [
     {
